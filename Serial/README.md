@@ -1,0 +1,1 @@
+If the serial plotter is not working properly or unable to open the com port download the source code from https://github.com/hyOzd/serialplot and build the application using the given instructions. 
